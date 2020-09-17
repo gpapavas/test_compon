@@ -1,4 +1,5 @@
 General information
+
 For specific proposals, please provide them as pull requests or issues via our GitHub site. 
 For general discussion, feel free to use the cii-badges mailing list.
 
